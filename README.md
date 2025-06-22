@@ -1,3 +1,6 @@
+## Introduction
+
+
 This is a hands on project I created to simulate backend reporting using MySQL. It’s designed for learning and showcasing SQL skills.
 
 
@@ -23,7 +26,7 @@ It includes entity relationships, schemas, and analytical queries for training a
 
 ---
 
-# Tables Created
+## Tables Created
 
 - `customers` — stores customer info like name, email, signup date  
 - `products` — product catalog 
@@ -31,13 +34,13 @@ It includes entity relationships, schemas, and analytical queries for training a
 
 ---
 
-# ER Diagram
+## ER Diagram
 
 > ![sales_erd.png](screenshots/sales_erd.png)
 
 ---
 
-# Purpose
+## Purpose
 
 This project helps demonstrate skills in:
 - MySQL schema design  
@@ -48,7 +51,7 @@ This project helps demonstrate skills in:
 
 ---
 
-#  Setup
+##  Setup
 
 You can execute the schema file using MySQL Workbench
 
