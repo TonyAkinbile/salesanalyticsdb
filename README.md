@@ -1,5 +1,12 @@
+This is a hands on project I created to simulate backend reporting using MySQL. It’s designed for learning and showcasing SQL skills.
+
+
 A MySQL based backend sales database designed to simulate real world business reporting.  
 It includes entity relationships, schemas, and analytical queries for training and portfolio projects.
+
+
+
+
 
 ---
 
@@ -47,3 +54,11 @@ You can execute the schema file using MySQL Workbench
 ```sql
 source schema/sales_schema.sql;
 
+
+
+
+---
+
+## Author
+
+Project built and maintained by **Tony Akinbile**  
