@@ -42,7 +42,7 @@ This project helps demonstrate skills in:
 
 #  Setup
 
-You can execute the schema file using MySQL Workbench or CLI:
+You can execute the schema file using MySQL Workbench
 
 ```sql
 source schema/sales_schema.sql;
