@@ -62,3 +62,4 @@ source schema/sales_schema.sql;
 ## Author
 
 Project built and maintained by **Tony Akinbile**  
+Part of a backend + data project series for my Software Development journey.
