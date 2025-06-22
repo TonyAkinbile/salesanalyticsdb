@@ -10,13 +10,14 @@ It includes entity relationships, schemas, and analytical queries for training a
 
 ---
 
-# Folder Structure
+## Folder Structure
 
-schema/ → Contains SQL files to create tables
-screenshots/ → ERD and table creation proof images
-data/ →  Sample customer, product, sales data
-queries/ →  Analytical SQL queries
-views/ →  SQL views or stored procedures
+- `schema/` → Contains SQL files to create tables  
+- `screenshots/` → ERD and table creation proof images  
+- `data/` → Sample customer, product, sales data  
+- `queries/` → Analytical SQL queries  
+- `views/` → SQL views or stored procedures  
+
 
 
 
