@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This is a hands-on project I created to simulate backend reporting using MySQL. It’s designed for learning and showcasing SQL skills.
+This is a hands on project I created to simulate backend reporting using MySQL. It’s designed for learning and showcasing SQL skills.
 
-A MySQL-based backend sales database designed to simulate real-world business reporting.  
+A MySQL based backend sales database designed to simulate real world business reporting.  
 It includes entity relationships, schemas, and analytical queries for training and portfolio projects.
 
 ---
