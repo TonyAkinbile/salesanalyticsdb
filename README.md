@@ -42,7 +42,8 @@ Visual confirmations (from MySQL Workbench) are saved in the `screenshots/` fold
 
 ## ER Diagram
 
-![ER Diagram](screenshots/er_diagram.png)
+![ER Diagram](screenshots/Screenshot%202025-05-28%20at%2008.58.26.png)
+
 
 ---
 
